@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Rini's Blog
+title:               Yilin's Blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,7 +13,7 @@ url:                 https://anyr1005.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "Rini's Blog"
+tagline:             "이린의 블로그"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
@@ -26,8 +26,8 @@ author:
   email:             yearinan@gmail.com
 
 # Fallback image and color
-image:               ./assets/img/main.jpg
-#color:               '#66A091'
+image:               /assets/img/main.jpg
+color:               '#66A091'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2021.04. by 리니'
+copyright:           '&copy; 2021.04. by Yilin'
 
 # Format of the permalinks
 permalink:           
